@@ -2543,12 +2543,51 @@ input, select, textarea {
 		
 	}
 
-	@media only screen and (max-width: 430px) {
-		.row1 {
-			/* width: 240px; */
-
+	@media only screen and (max-width: 375px) {
+		.sendMessage {
+			margin-left: -30px;
 		}
 		
+	}
+	@media only screen and (max-width: 414px) {
+		.sendMessage {
+			margin-right: -220px;
+		}
+		#contact .row {
+			margin-right: 2px;
+		}
+		
+	}
+
+	@media only screen and (max-width: 428px) {
+		.sendMessage {
+			margin-right: -220px;
+		}
+		#contact .row {
+			margin-right: 2px;
+		}
+		
+	}
+
+	@media only screen and (max-width: 360px) {
+		.sendMessage {
+			margin-left: 70px;
+		}
+		#contact .row {
+			margin-right: 2px;
+		}
+		.sendMessage {
+			margin-right: 120px;
+		}
+		
+	}
+	
+	
+	@media only screen and (max-width: 412px) {
+		#contact .row {
+			margin-right: 2px;
+		}
+
 	}
 
 	/* #skills {
@@ -2609,3 +2648,5 @@ input, select, textarea {
 		  color: white;
 		  font-size: 12px;
 	  }
+
+

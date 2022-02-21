@@ -111,6 +111,7 @@ input, select, textarea {
 		transition: color .2s ease-in-out;
 		color: #43B3E0;
 		text-decoration: underline;
+
 	}
 
 		a:hover {
@@ -2547,6 +2548,19 @@ input, select, textarea {
 		.sendMessage {
 			margin-left: -30px;
 		}
+		a:visited {
+		text-decoration: none;
+		}
+		
+		a:hover {
+		text-decoration: underline;
+
+		}
+		
+		a:active {
+		text-decoration: underline;
+
+		}
 		
 	}
 	@media only screen and (max-width: 414px) {
@@ -2556,6 +2570,7 @@ input, select, textarea {
 		#contact .row {
 			margin-right: 2px;
 		}
+		
 		
 	}
 
@@ -2587,6 +2602,7 @@ input, select, textarea {
 		#contact .row {
 			margin-right: 2px;
 		}
+		
 
 	}
 
@@ -2647,6 +2663,27 @@ input, select, textarea {
 	  #copyright {
 		  color: white;
 		  font-size: 12px;
+
 	  }
 
 
+	  a:link {
+		/* text-decoration: none; */
+
+	   }
+	   
+	   a:visited {
+		text-decoration: none;
+	   }
+	   
+	   a:hover {
+		text-decoration: underline;
+
+	   }
+	   
+	   a:active {
+		text-decoration: underline;
+
+	   }
+	  
+	 

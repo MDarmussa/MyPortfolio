@@ -30,3 +30,98 @@
                </footer>
           </div>
      </article>
+
+
+
+
+
+
+
+
+
+<!-- Section: Testimonials v.1 -->
+<section id="testimonials" class="text-center my-5 p-5 m-5">
+
+     <!-- Section heading -->
+     <h1 class="h1-responsive font-weight-bold my-5"><strong>Testimonials</strong></h1>
+     <!-- Section description -->
+     <!-- <p class="dark-grey-text w-responsive mx-auto mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+       Fugit, error amet numquam iure provident voluptate esse quasi, veritatis totam voluptas nostrum quisquam
+       eum porro a pariatur veniam.</p> -->
+   
+     <!-- Grid row -->
+     <div class="row">
+   
+       <!--Grid column-->
+       <div class="col-lg-4 col-md-12 mb-lg-0 mb-4">
+         <!--Card-->
+         <div class="card testimonial-card">
+           <!--Background color-->
+           <div class="card-up info-color"></div>
+           <!--Avatar-->
+           <div class="avatar1 mx-auto white"> <br>
+             <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(9).webp" class="rounded-circle img-fluid">
+           </div>
+           <div class="card-body">
+             <!--Name-->
+             <h4 class="font-weight-bold mb-4">John Doe.,</h4>
+             <p>Software Engineer, <a href="https://www.digitalcrafts.com/" target="_blank"> Digitalcrafts</a></p>
+             <hr>
+             <!--Quotation-->
+             <p class="dark-grey-text mt-4">Coming Soon - For Test Only</p>
+           </div>
+         </div>
+         <!--Card-->
+       </div>
+       <!--Grid column-->
+   
+       <!--Grid column-->
+       <div class="col-lg-4 col-md-6 mb-md-0 mb-4">
+         <!--Card-->
+         <div class="card testimonial-card">
+           <!--Background color-->
+           <div class="card-up blue-gradient">
+           </div>
+           <!--Avatar-->
+           <div class="avatar1 mx-auto white"><br>
+             <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(20).webp" class="rounded-circle img-fluid">
+           </div>
+           <div class="card-body">
+             <!--Name-->
+             <h4 class="font-weight-bold mb-4">Anna Aston.,</h4>
+             <p>Software Engineer, <a href="https://www.digitalcrafts.com/" target="_blank"> Digitalcrafts</a></p>
+
+             <hr>
+             <!--Quotation-->
+              <p class="dark-grey-text mt-4 scroll"></i>Coming Soon - For Test Only</p>
+   
+           </div>
+         </div>
+         <!--Card-->
+       </div>   
+       <!--Grid column-->
+       <div class="col-lg-4 col-md-6">
+         <!--Card-->
+         <div class="card testimonial-card">
+           <!--Background color-->
+           <div class="card-up indigo"></div>
+           <!--Avatar-->
+           <div class="avatar1 mx-auto white"><br>
+             <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(10).webp" class="rounded-circle img-fluid">
+           </div>
+           <div class="card-body">
+             <!--Name-->
+             <h4 class="font-weight-bold mb-4">Maria Kate.,</h4>
+             <p>Software Engineer, <a href="https://www.digitalcrafts.com/" target="_blank"> Digitalcrafts</a></p>
+             <hr>
+             <!--Quotation-->
+             <p class="dark-grey-text mt-4"></i>Coming Soon - For Test Only
+              dshfdshfbdsjh
+            </p>
+           </div>
+         </div>
+       </div>
+   
+     </div>
+   
+   </section>

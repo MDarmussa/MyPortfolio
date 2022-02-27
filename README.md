@@ -36,6 +36,7 @@
 
 
 
+                                          <!-- ------------------------ Testimonials ----- -->
 
 
 
@@ -124,4 +125,100 @@
    
      </div>
    
+   </section>
+
+
+
+
+
+
+
+
+                                                <!-- ------------------------ projects ----- -->
+
+
+
+<section id="projects" class="text-center my-5 p-5 m-5">
+
+     <!-- Section heading -->
+     <h1><strong>Projects</strong></h1>
+     <h2>Stuff I made recently.</h2><br>
+
+     <!-- Section description -->
+     <!-- Grid row -->
+     <div class="row">
+   
+       <!--Grid column-->
+       <div class="col-lg-4 col-md-12 mb-lg-0 mb-4">
+         <!--Card-->
+         <div class="card testimonial-card">
+           <!--Background color-->
+           <div class="card-up info-color"></div>
+           <!--Avatar-->
+           <div class="avatar mx-auto white">
+             <img src="./images/drink.jpg" class="rounded1-circle img-fluid" style="height: 585px;">
+           </div>
+           <h3><a>Boozy Books</a></h3>
+
+           <div class="card-body overflow-auto" style="height: 200px;">
+             <!--Name-->
+             <!--Quotation-->
+             <p>Boozy Books is a mobile-friendly web app designed to allow users to search a listing of books from a set of genres. Once your book is selected, the app will allow you to select a random drink to enjoy while reading!
+             </p>
+           </div>
+           <div class="card-body">
+              <a class="chapter-bottom-nav btn btn-blue border" target='_blank' href="https://boozybooks.netlify.app/">Demo Live</a>
+              <a class="chapter-bottom-nav btn btn-blue border" target="_blank" href="https://github.com/MDarmussa/FrontendProject">See Code</a>
+           </div>
+         </div>
+         <!--Card-->
+       </div>
+
+       <div class="col-lg-4 col-md-12 mb-lg-0 mb-4">
+          <!--Card-->
+          <div class="card testimonial-card">
+            <!--Background color-->
+            <div class="card-up info-color"></div>
+            <!--Avatar-->
+            <div class="avatar mx-auto white">
+              <img src="./images/words.jpeg" class="rounded1-circle img-fluid" style="height: 585px;">
+            </div>
+            <h3><a>Word Puzzle</a></h3>
+            <div class="card-body overflow-auto" style="height: 200px;">
+              <!--Name-->
+              <!--Quotation-->
+              <p>The goal of Free Bee is to make as many words as you can with the seven letters you are given.
+                 You do not have to use every letter and you can use letters more than once. The only requirements
+                  are that you must use the center letter at least once in every word and words must be at least four
+                   letters long. Every word has a point value based on length of the word
+                   <a href="https://freebee.fun/index.html" target="_blank">Read More</a>
+                  </p>
+            </div>
+            <div class="card-body">
+              <a class="chapter-bottom-nav btn btn-blue border" target='_blank' href="...">Demo Live</a>
+              <a class="chapter-bottom-nav btn btn-blue border" target="_blank" href="https://github.com/MDarmussa/word-puzzle">See Code</a>
+            </div>
+          </div>
+          <!--Card-->
+        </div>
+
+        <!-- <div class="col-lg-4 col-md-12 mb-lg-0 mb-4">
+          <div class="card testimonial-card">
+            <div class="card-up info-color"></div>
+            <div class="avatar mx-auto white">
+              <img src="./images/words.jpeg" class="rounded1-circle img-fluid" style="height: 585px;">
+            </div>
+            <div class="card-body">
+              <h3><a>words Scrambles</a></h3>
+              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque mollitia obcaecati odio labore eum, provident dolores doloremque corrupti! Quae perferendis, harum assumenda id at ab ea beatae. Necessitatibus, quasi autem.</p>
+              <a class="chapter-bottom-nav btn btn-blue border" target='_blank' href="...">Demo Live</a>
+              <a class="chapter-bottom-nav btn btn-blue border" target="_blank" href="...">See Code</a> <br><br>
+            </div>
+          </div>
+        </div> -->
+ 
+     </div> <br><br>
+     
+     <h3><a class="chapter-bottom-nav btn btn-blue btn-lg border " href="#contact"style="background-color: black; color: white;">Email Me</a></h3>
+
    </section>

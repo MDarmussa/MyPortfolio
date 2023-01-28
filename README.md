@@ -1,1 +1,1 @@
-Thank you for visiting my code
+Thank you for visiting my code and portfolio website
